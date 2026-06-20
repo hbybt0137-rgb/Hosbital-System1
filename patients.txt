@@ -1,0 +1,3 @@
+P001,Ahmed Ali,ahmed123,pass123,25.0,Male,01098765432,D001
+P002,hana,hana002,pass002,100.0,female,01236547895,D002
+P003,mariem,mariem003,pass003,20.0,female,01123647895,
